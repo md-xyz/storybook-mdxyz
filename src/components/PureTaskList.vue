@@ -12,7 +12,7 @@
     <div v-else-if="isEmpty" class="list-items">
       <div class="wrapper-message">
         <span class="icon-check" />
-        <p class="title-message">You have no tasks</p>
+        <p class="title-message">You have no tasks at all</p>
         <p class="subtitle-message">Sit back and relax</p>
       </div>
     </div>
