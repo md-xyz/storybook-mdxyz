@@ -22,7 +22,7 @@
         :id="'title-' + task.id"
         name="title"
         placeholder="Input title"
-        style="background: red"
+        style="text-overflow: ellipsis"
       />
       />
     </label>
