@@ -8,7 +8,7 @@
   Chromatic's Intro to Storybook Vue template
 </h1>
 
-This template ships with the main Vue and Storybook configuration files you'll need to get up and running fast.
+This template ships with the main Vue and Storybook configuration files you'll need to get up and running fast. Random line.
 
 ## 🚅 Quick start
 
