@@ -1,12 +1,12 @@
-import Task from "./Task.vue";
+import WafForm from "./WafForm.vue";
 
 import {action} from "@storybook/addon-actions";
 
 export default {
-  component: Task,
+  component: WafForm,
   // 👇 Our exports that end in "Data" are not stories.
   excludeStories: /.*Data$/,
-  title: "Refit Support/Task",
+  title: "Refit Support/WafForm",
   // 👇 Our events will be mapped in Storybook UI
   argTypes: {
     onPinTask: {},

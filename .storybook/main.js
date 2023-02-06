@@ -7,7 +7,7 @@ module.exports = {
     'design-system': {
       title: 'FORGE Design System',
       // 👇 The url provided by Chromatic when it was deployed
-      url: 'https://63df23909a5b3a47ad4d2add-dvkinxjybb.chromatic.com/?path=/story/pureinboxscreen--default'
+      url: 'https://6389014fa89cf397a8d4caeb-ekakhmbiik.chromatic.com/'
     }
   },
 
